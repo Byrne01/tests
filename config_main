@@ -1,0 +1,44 @@
+
+1  sudo ifconfig
+    2  dpkg -l | grep -vm
+    3  dpkg -l | grep open -vm
+    4  dpkg -l | grep open-vm
+    5  sudo apt-get update 
+    6  sudo apt-get upgrade -y
+    7  sudo reboot
+    8  sudo apt-get install open-vm-tools-desktop 
+    9  sudo reboot
+   10  sudo
+   11  su
+   12  cd Downloads/
+   13  ls
+   14  sudo chmod 777 Anaconda2-5.0.1-Linux-x86_64.sh 
+   15  ls
+   16  bash Anaconda2-5.0.1-Linux-x86_64.sh 
+   17  juypter notebook
+   18  jupyter notebook
+   19  sudo jupyter notebook
+   20  apt install python-pip
+   21  jupyter notebook
+   22  sudo jupyter notebook
+   23  python -m pip install --upgrade pip
+   24  apt install python-pip --upgrade pip
+   25  pip install --upgrade pip
+   26  python3 -m pip install jupyter
+   27  python -m pip install jupyter
+   28  apt-get install python-setuptools
+   29  jupyter notebook
+   30  sudo apt-get install python-setuptools
+   31  jupyter notebook
+   32  sudo reboot
+   33  jupyter notebook
+   34  sudo apt-get install git
+   35  git --version
+   36  git config --global user.name "Byrne01"
+   37  git config --global user.email  "seamusbyrne01@gmail.com"
+   38  mkdir project
+   39  ls
+   40  cd project/
+   41  ls
+   42  history
+
